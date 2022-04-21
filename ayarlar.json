@@ -1,0 +1,42 @@
+{
+    "ayarlar": {
+       "botowner": "701831314533384263",
+       "token": "Token",
+       "prefix": ".",
+       "mongoURL": "mongodb",
+       "bio": "ErdemÇakıroğlu 🤍 Registration",
+       "status": "idle",
+       "tag": "+",
+       "nametag": "|",
+       "autonickname": "İsim | Yaş",
+       "Sunucuismi": "Erdem Bot Deneme."
+
+    },
+    "staffs": {
+        "foundar": "960333889774170183",
+        "owner": "930227493103882311",
+        "register": "960333889115656213"
+    },
+    "roles": {
+        "woman": ["929766256448503808", ""],
+        "man": ["929766234914955274", ""],
+        "unreg": "929766334785548308"
+    },
+
+    "channels": {
+        "voice1": "938163711108087890",
+        "voice2": "960334498837446666",
+        "welcomechat": "929766654718648331",
+        "rules": "960334357845917726"
+    },
+
+    "logs": {
+        "woman": "960334283749339266",
+        "man": "960334283749339266",
+        "chat": "929765960531968053"
+    },
+    "emojis": {
+        "red": "<a:no:929769104905220096>",
+        "onay": "<a:onay:929769104418676778>"
+    }
+}
